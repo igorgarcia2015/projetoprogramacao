@@ -6,14 +6,14 @@ var nome = "Igor Nicolini Garcia";
 var idade = 45;
 var senha = "99999";
 
-
+//condições para validar idade
 if(idade > 17){
    alert("Pode votar! "+ nome);
 } else{
     alert("Vai embora daqui! "+ nome);
 }
 
-if(nome == "Valdecir" && senha =="123"){
+if(nome == "Igor Nicolini Garcia" && senha =="123"){
     alert("Login concedido! ");
 }else{
    alert("Tente Novamente! seu intruso!");
