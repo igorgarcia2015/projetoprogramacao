@@ -2,7 +2,7 @@
 
 //Uma variável guarda algum valor temporariamente
 //Entrada dos dados
-//ALTERADO NO GIT
+//ALTERADO NO GIT 2222
 var nome = "Igor Nicolini Garcia";
 var idade = 45;
 var senha = "99999";
